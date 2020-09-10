@@ -5,7 +5,7 @@ import { Navbar, NavbarBrand } from 'reactstrap';
 import Navigation from './Components/Navigation/Navigation';
 function App() {
   return (
-    <div className="App">
+    <div className="background">
       <Navigation/>
      
     </div>

@@ -1,3 +1,20 @@
+.background{
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: url("./back5.png") center center;
+  background-attachment: fixed;
+
+  background-repeat: no-repeat;
+  opacity: 0.9;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+}
+
 .App {
   text-align: center;
 }
